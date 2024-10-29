@@ -17,7 +17,7 @@
 1. リポジトリのクローン:
 ```
 git clone https://github.com/hrtaym1114-github/wiki-analysis-swarm-agent.git
-cd wikipedia-analysis-swarm
+cd wiki-analysis-swarm-agent
 ```
 
 2. 依存関係のインストール:
