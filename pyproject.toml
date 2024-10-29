@@ -1,10 +1,9 @@
 [tool.poetry]
 name = "blog-work"
 version = "0.1.0"
-description = ""
+description = "Swarm Agent for Wikipedia Analysis"
 authors = ["Ayumu <hrtaym1114@gmail.com>"]
 readme = "README.md"
-package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"

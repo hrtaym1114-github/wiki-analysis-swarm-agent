@@ -2,7 +2,13 @@
 
 ## 開発フロー
 1. Issueの作成
-2. ブランチの作成（feature/[機能名]）
+2. ブランチの作成
+   - 機能追加の場合: `feature/issue-[番号]-[機能名]`
+     例: `feature/issue-12-add-search-filter`
+   - バグ修正の場合: `fix/issue-[番号]-[修正内容]`
+     例: `fix/issue-14-api-timeout`
+   - ドキュメント更新の場合: `docs/issue-[番号]-[更新内容]`
+     例: `docs/issue-15-update-api-docs`
 3. 開発とテスト
 4. プルリクエストの作成
 
