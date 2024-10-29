@@ -16,7 +16,7 @@
 ## インストール方法
 1. リポジトリのクローン:
 ```
-git clone [リポジトリURL]
+git clone https://github.com/hrtaym1114-github/wiki-analysis-swarm-agent.git
 cd wikipedia-analysis-swarm
 ```
 
