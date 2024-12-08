@@ -43,4 +43,4 @@ poetry run python wiki_analysis_swarm_agent.py
 MIT
 
 ## 作者
-Ayumu Harata
+- GitHub: [@hrtaym1114-github](https://github.com/hrtaym1114-github)
